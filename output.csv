@@ -1,4 +1,4 @@
-CVE-2019-0611,N/A,Affected product not used
+CVE-2019-0611,N/A,Affected product not in use
 CVE-2019-0821,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4489878
 Security Only:4489885
@@ -14,10 +14,10 @@ CVE-2019-0797,Windows Server 2012 R2 (Server Core installation),"Windows Server 
 Monthly Rollup:4489881
 Security Only:4489883
 "
-CVE-2019-0762,N/A,Affected product not used
-CVE-2019-0779,N/A,Affected product not used
-CVE-2019-0678,N/A,Affected product not used
-CVE-2019-0612,N/A,Affected product not used
+CVE-2019-0762,N/A,Affected product not in use
+CVE-2019-0779,N/A,Affected product not in use
+CVE-2019-0678,N/A,Affected product not in use
+CVE-2019-0612,N/A,Affected product not in use
 CVE-2019-0617,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4489878
 Security Only:4489885
@@ -25,9 +25,9 @@ Windows Server 2012 R2 (Server Core installation)
 Monthly Rollup:4489881
 Security Only:4489883
 "
-CVE-2019-0780,N/A,Affected product not used
-CVE-2019-0766,N/A,Affected product not used
-CVE-2019-0768,N/A,Affected product not used
+CVE-2019-0780,N/A,Affected product not in use
+CVE-2019-0766,N/A,Affected product not in use
+CVE-2019-0768,N/A,Affected product not in use
 CVE-2019-0765,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4489878
 Security Only:4489885
@@ -35,8 +35,8 @@ Windows Server 2012 R2 (Server Core installation)
 Monthly Rollup:4489881
 Security Only:4489883
 "
-CVE-2019-0763,N/A,Affected product not used
-CVE-2019-0746,N/A,Affected product not used
+CVE-2019-0763,N/A,Affected product not in use
+CVE-2019-0746,N/A,Affected product not in use
 CVE-2019-0618,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4486563
 Security Only:4486564
@@ -86,7 +86,7 @@ Windows Server 2012 R2 (Server Core installation)
 Monthly Rollup:4487000
 Security Only:4487028
 "
-CVE-2019-0672,N/A,Affected product not used
+CVE-2019-0672,N/A,Affected product not in use
 CVE-2019-0596,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4486563
 Security Only:4486564
@@ -94,7 +94,7 @@ Windows Server 2012 R2 (Server Core installation)
 Monthly Rollup:4487000
 Security Only:4487028
 "
-CVE-2019-0613,N/A,Affected product not used
+CVE-2019-0613,N/A,Affected product not in use
 CVE-2019-0625,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4486563
 Security Only:4486564
@@ -142,9 +142,9 @@ CVE-2019-0635,Windows Server 2012 R2 (Server Core installation),"Windows Server 
 Monthly Rollup:4487000
 Security Only:4487028
 "
-CVE-2019-0637,N/A,Affected product not used
-CVE-2019-0659,N/A,Affected product not used
-CVE-2019-0669,N/A,Affected product not used
+CVE-2019-0637,N/A,Affected product not in use
+CVE-2019-0659,N/A,Affected product not in use
+CVE-2019-0669,N/A,Affected product not in use
 CVE-2019-0615,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4486563
 Security Only:4486564
@@ -166,7 +166,7 @@ Windows Server 2012 R2 (Server Core installation)
 Monthly Rollup:4487000
 Security Only:4487028
 "
-CVE-2019-0540,N/A,Affected product not used
+CVE-2019-0540,N/A,Affected product not in use
 CVE-2019-0602,Windows Server 2012 R2 (Server Core installation),"Windows 7 for 32-bit Systems Service Pack 1
 Monthly Rollup:4486563
 Security Only:4486564
